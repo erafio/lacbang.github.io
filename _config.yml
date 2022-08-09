@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Thư viện Lạc Bang
 email: erafiodev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mục đích lập ra website này là để tôi lưu trữ lại những tư liệu về Phật học mà tôi tâm đắt.
